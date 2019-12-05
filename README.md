@@ -1,7 +1,10 @@
 # Final-Project
 SpellChecker-Combined project
 
-    //Spell Checker
+	Author: Luc Nguyen
+	Class: CEN 3024C
+	Profesor: Gossai
+
     import java.io.BufferedReader;
     import java.io.FileReader;
     import java.io.IOException;
